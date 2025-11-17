@@ -4,7 +4,7 @@ input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
         Ort_1.push(gemessener_wert)
         Messzähler += 1
         if (input.soundLevel() >= 75) {
-        	
+            basic.setLedColor(0x00ff00)
         }
         if (input.soundLevel() < 75 == input.soundLevel() > 150) {
             basic.setLedColor(0xff8000)
