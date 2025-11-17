@@ -17,7 +17,7 @@
         "branch": "v7.1.31",
         "tag": "v7.1.31",
         "commits": "https://github.com/microsoft/pxt-calliope/commits/65d8c356b2b4bbd74137b6fc952d4449a7eae48d",
-        "target": "7.1.31",
+        "target": "8.1.7",
         "pxt": "11.4.16",
         "targetId": "calliopemini"
     },
